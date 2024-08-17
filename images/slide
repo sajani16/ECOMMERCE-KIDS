@@ -1,0 +1,49 @@
+<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="..." class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="..." class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="..." class="d-block w-100" alt="...">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+About Us
+Welcome to Kids Clothing Store!
+
+At Kids Clothing Store, we're passionate about providing kids of all ages with the highest quality clothing that is comfortable and stylish. Our journey began on the basis that the shopping experience for parents should be both dependable and enjoyable, giving great fashion and functionality for children.
+
+Our aim is to deliver value through thoughtfully curated children's apparel. In this regard, we believe in bringing high-quality craftsmanship together with stylish and trendy design so that every piece that we offer would express the highest order for comfort, style, and superior quality.
+
+Our Values
+
+Quality: We promise to source and deliver quality products, manufactured using select raw materials and built to deliver longevity. Every product will undergo the lens of quality checks before being sent across to ensure it meets your expectations and our standards.
+
+Customer-centric: The will of our customers is our command. We give our words to create a stupendous experience to shop, right from navigating through our user-friendly website to a responsible and responsive customer support team.
+
+Integrity We believe in transparency and honesty in all our interactions. Be it clear articulation on product descriptions or upfront communication on pricing, which goes a long way in creating a level of confidence with every customer.
+
+Our Story
+
+Founded with the vision to make hassle-free shopping a reality for parents and their little ones, Kids Clothing Store has grown from a small startup to a well-known name in children's fashion. Our team is dedicated to curating collections that reflect the latest trends and timeless classics, assuring something special for every child.
+
+Meet the Team
+
+Our team includes passionate professionals striving to make your shopping experience more than just good. Be it our design experts, who choose the best pieces for you, or our customer service representatives, always standing by to help, we work as a team to offer the best service.
+
+Reach out to us.
+
+Stay connected with us on social media and find out more about what makes Kids Clothing Store so special. Reach out to us with any questions or feedback—we'd love to hear from you!
+
+Thank you for choosing Kids Clothing Store. We look forward to being a part of your family's fashion journey!
